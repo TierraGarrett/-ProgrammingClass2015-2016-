@@ -1,1 +1,11 @@
-https://repl.it/BIrg/2
+puts" how many hours do you work?"
+
+hours = gets.to_i
+
+puts "how much do you make pur day?"
+
+amount = gets.to_i
+
+puts" how many weeks did you work?"
+
+weeks = gets.to_i
